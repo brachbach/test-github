@@ -1,4 +1,4 @@
 Testing:
 
 1. How's the dev-x for this feature in general?
-1. If I make this template on a branch, will the PR for that branch use the template? Will PRs for other branches use the template?
+1. Now that the template is merged, what happens if I make a PR for a branch that changes the template?
